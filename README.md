@@ -15,7 +15,7 @@ Below is a brief overview of what you can expect:
   
 ## Education
 - Master's in Data Science and Analytics with AI/ML: Equipped with a solid theoretical foundation and practical experience in applying AI and machine learning algorithms to real-world problems.
-- bachelor of science in Mathematics.
+- Bachelor of science in Mathematics.
 ---
 ## Projects
 
